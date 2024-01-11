@@ -49,3 +49,4 @@ while len(guessed_states) < 50:
 # Close the turtle graphics window
 turtle.mainloop()
 
+
